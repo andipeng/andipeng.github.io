@@ -1,1 +1,1 @@
-<img src="cat.png" alt="hi" class="inline"/>
+<img src="cat.jpg" alt="hi" class="inline"/>
