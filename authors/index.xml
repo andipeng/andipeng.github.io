@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/authors/</link>
       <atom:link href="https://andipeng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://andipeng.github.io/authors/admin/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am researching away at &lt;a href=&#34;https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/&#34;&gt;Microsoft Research AI&lt;/a&gt;, where I mostly hang out with &lt;a href=&#34;https://www.ecekamar.com/&#34;&gt;Ece Kamar&lt;/a&gt;. I’m intrigued by how decisions are made, in both humans and machines. By formalizing the cognitive principles that underlie how we learn and reason, I build systems that collaborate with humans to solve computational tasks. I also work with &lt;a href=&#34;https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6&#34;&gt;AI for Earth&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I find myself growing ever more concerned that the world isn’t using AI safely, fairly, or ethically. To that end, I&#39;ve worked with &lt;a href=&#34;https://www.nist.gov/director/vcat/jake-taylor-assistant-director-quantum-information-science-white-house-office-science&#34;&gt;Jake Taylor&lt;/a&gt; at the &lt;a href=&#34;https://www.whitehouse.gov/ostp/&#34;&gt;White House Office of Science and Technology Policy (OSTP)&lt;/a&gt; and with the &lt;a href=&#34;https://www.partnershiponai.org/&#34;&gt;Partnership on AI&lt;/a&gt; on understanding the impacts of technology. Our report on establishing standards for the deployment of criminal justice risk assessment tools can be found &lt;a href=&#34;https://www.partnershiponai.org/artificial-intelligence-research-and-ethics-community-calls-for-standards-in-criminal-justice-risk-assessment-tools/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -24,9 +24,17 @@
     </item>
     
     <item>
+      <title>Robert Ford</title>
+      <link>https://andipeng.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Besmira Nushi</title>
       <link>https://andipeng.github.io/authors/besmira-nushi/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/besmira-nushi/</guid>
       <description></description>
     </item>
@@ -34,7 +42,7 @@
     <item>
       <title>Ece Kamar</title>
       <link>https://andipeng.github.io/authors/ece-kamar/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/ece-kamar/</guid>
       <description></description>
     </item>
@@ -42,7 +50,7 @@
     <item>
       <title>Emre Kiciman</title>
       <link>https://andipeng.github.io/authors/emre-kiciman/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/emre-kiciman/</guid>
       <description></description>
     </item>
@@ -50,7 +58,7 @@
     <item>
       <title>Kori Inkpen</title>
       <link>https://andipeng.github.io/authors/kori-inkpen/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/kori-inkpen/</guid>
       <description></description>
     </item>
@@ -58,16 +66,8 @@
     <item>
       <title>Siddharth Suri</title>
       <link>https://andipeng.github.io/authors/siddharth-suri/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/siddharth-suri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>https://andipeng.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     

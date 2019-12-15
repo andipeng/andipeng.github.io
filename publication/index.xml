@@ -5,20 +5,12 @@
     <link>https://andipeng.github.io/publication/</link>
       <atom:link href="https://andipeng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://andipeng.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>What You See Is What You Get? The Impact of Representation Criteria on Human Bias in Hiring</title>
-      <link>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -70,6 +62,14 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>What You See Is What You Get? The Impact of Representation Criteria on Human Bias in Hiring</title>
+      <link>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</guid>
+      <description></description>
     </item>
     
   </channel>
