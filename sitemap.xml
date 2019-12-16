@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>https://andipeng.github.io/tags/conference/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andipeng.github.io/authors/dan-morris/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -103,11 +108,6 @@
   </url>
   
   <url>
-    <loc>https://andipeng.github.io/tags/refereed-conference/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andipeng.github.io/tags/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://andipeng.github.io/tags/refereed-workshop/</loc>
+    <loc>https://andipeng.github.io/tags/workshop/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
