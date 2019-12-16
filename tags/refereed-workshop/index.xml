@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refereed Workshop | Andi Peng</title>
+    <link>https://andipeng.github.io/tags/refereed-workshop/</link>
+      <atom:link href="https://andipeng.github.io/tags/refereed-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Refereed Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Refereed Workshop</title>
+      <link>https://andipeng.github.io/tags/refereed-workshop/</link>
+    </image>
+    
+    <item>
+      <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
+      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

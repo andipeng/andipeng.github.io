@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/publication_types/3/</link>
       <atom:link href="https://andipeng.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>3</title>
@@ -13,17 +13,11 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://andipeng.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
+      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</guid>
+      <description></description>
     </item>
     
   </channel>

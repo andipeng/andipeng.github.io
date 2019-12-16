@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-Archival | Andi Peng</title>
+    <link>https://andipeng.github.io/tags/non-archival/</link>
+      <atom:link href="https://andipeng.github.io/tags/non-archival/index.xml" rel="self" type="application/rss+xml" />
+    <description>Non-Archival</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Non-Archival</title>
+      <link>https://andipeng.github.io/tags/non-archival/</link>
+    </image>
+    
+    <item>
+      <title>An Integrated Machine Learning Approach To Studying Terrorism</title>
+      <link>https://andipeng.github.io/publication/an-integrated-machine-learning-approach-to-studying-terrorism/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/an-integrated-machine-learning-approach-to-studying-terrorism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Boko Haram Attacks in Nigeria</title>
+      <link>https://andipeng.github.io/publication/boko-haram-nigeria-governance-usip/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/boko-haram-nigeria-governance-usip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/authors/</link>
       <atom:link href="https://andipeng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,13 +15,77 @@
     <item>
       <title></title>
       <link>https://andipeng.github.io/authors/admin/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am researching away at &lt;a href=&#34;https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/&#34;&gt;Microsoft Research AI&lt;/a&gt;, where I mostly hang out with &lt;a href=&#34;https://www.ecekamar.com/&#34;&gt;Ece Kamar&lt;/a&gt;. I’m intrigued by how decisions are made, in both humans and machines. By formalizing the cognitive principles that underlie how we learn and reason, I build systems that collaborate with humans to solve computational tasks. I also work with &lt;a href=&#34;https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6&#34;&gt;AI for Earth&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I find myself growing ever more concerned that the world isn’t using AI safely, fairly, or ethically. To that end, I&#39;ve worked with &lt;a href=&#34;https://www.nist.gov/director/vcat/jake-taylor-assistant-director-quantum-information-science-white-house-office-science&#34;&gt;Jake Taylor&lt;/a&gt; at the &lt;a href=&#34;https://www.whitehouse.gov/ostp/&#34;&gt;White House Office of Science and Technology Policy (OSTP)&lt;/a&gt; and with the &lt;a href=&#34;https://www.partnershiponai.org/&#34;&gt;Partnership on AI&lt;/a&gt; on understanding the impacts of technology. Our report on establishing standards for the deployment of criminal justice risk assessment tools can be found &lt;a href=&#34;https://www.partnershiponai.org/artificial-intelligence-research-and-ethics-community-calls-for-standards-in-criminal-justice-risk-assessment-tools/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I received a B.S. in Cognitive Science and B.A. in Global Affairs from Yale, where I spent four wonderful years with &lt;a href=&#34;http://www.cs.yale.edu/homes/scaz/&#34;&gt;Brian Scassellati&lt;/a&gt;. I&#39;ll be starting my Ph.D. at &lt;a href=&#34;https://www.csail.mit.edu/&#34;&gt;MIT CSAIL&lt;/a&gt;, in part funded by the &lt;a href=&#34;https://www.truman.gov/&#34;&gt;Truman Scholarship&lt;/a&gt;, in Fall 2020.&lt;/p&gt;
-&lt;p&gt;The best way to reach out is at andipeng [at] microsoft [dot] com.&lt;/p&gt;
+&lt;p&gt;The best way to reach me is andipeng [at] microsoft [dot] com. &lt;a href=https://andipeng.github.io/img/JustMeAndMyCat.jpg&gt;Cats are dope.&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anthony Ortiz</title>
+      <link>https://andipeng.github.io/authors/anthony-ortiz/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/anthony-ortiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bistra Dilkina</title>
+      <link>https://andipeng.github.io/authors/bistra-dilkina/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/bistra-dilkina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blake Elias</title>
+      <link>https://andipeng.github.io/authors/blake-elias/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/blake-elias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caleb Robinson</title>
+      <link>https://andipeng.github.io/authors/caleb-robinson/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/caleb-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Morris</title>
+      <link>https://andipeng.github.io/authors/dan-morris/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/dan-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolya Malkin</title>
+      <link>https://andipeng.github.io/authors/kolya-malkin/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/kolya-malkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malina Simard-Halm</title>
+      <link>https://andipeng.github.io/authors/malina-simard-halm/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/malina-simard-halm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebojsa Jojic</title>
+      <link>https://andipeng.github.io/authors/nebojsa-jojic/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/nebojsa-jojic/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -61,6 +125,158 @@
       <link>https://andipeng.github.io/authors/siddharth-suri/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/siddharth-suri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Oberlander</title>
+      <link>https://andipeng.github.io/authors/andrew-oberlander/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/andrew-oberlander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Heath</title>
+      <link>https://andipeng.github.io/authors/christopher-heath/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/christopher-heath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colin Summers</title>
+      <link>https://andipeng.github.io/authors/colin-summers/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/colin-summers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gazi Sakib</title>
+      <link>https://andipeng.github.io/authors/gazi-sakib/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/gazi-sakib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golda Nguyen</title>
+      <link>https://andipeng.github.io/authors/golda-nguyen/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/golda-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Chin</title>
+      <link>https://andipeng.github.io/authors/jeffrey-chin/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/jeffrey-chin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Gray</title>
+      <link>https://andipeng.github.io/authors/justin-gray/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/justin-gray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenneth Decker</title>
+      <link>https://andipeng.github.io/authors/kenneth-decker/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/kenneth-decker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nariman Sharifrazi</title>
+      <link>https://andipeng.github.io/authors/nariman-sharifrazi/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/nariman-sharifrazi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Falck</title>
+      <link>https://andipeng.github.io/authors/robert-falck/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/robert-falck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akshay Bery</title>
+      <link>https://andipeng.github.io/authors/akshay-bery/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/akshay-bery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Houle</title>
+      <link>https://andipeng.github.io/authors/christine-houle/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/christine-houle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joe English</title>
+      <link>https://andipeng.github.io/authors/joe-english/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/joe-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherine Kirk</title>
+      <link>https://andipeng.github.io/authors/katherine-kirk/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/katherine-kirk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megan Wilson</title>
+      <link>https://andipeng.github.io/authors/megan-wilson/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/megan-wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reem Hussein</title>
+      <link>https://andipeng.github.io/authors/reem-hussein/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/reem-hussein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Casey King</title>
+      <link>https://andipeng.github.io/authors/william-casey-king/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/william-casey-king/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yara Hattab</title>
+      <link>https://andipeng.github.io/authors/yara-hattab/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/yara-hattab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YuHan Lim</title>
+      <link>https://andipeng.github.io/authors/yuhan-lim/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/yuhan-lim/</guid>
       <description></description>
     </item>
     

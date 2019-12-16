@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/tags/</link>
       <atom:link href="https://andipeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,32 +15,24 @@
     <item>
       <title>Refereed Conference</title>
       <link>https://andipeng.github.io/tags/refereed-conference/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/tags/refereed-conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://andipeng.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/tags/deep-learning/</guid>
+      <title>Refereed Workshop</title>
+      <link>https://andipeng.github.io/tags/refereed-workshop/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/tags/refereed-workshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://andipeng.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://andipeng.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/tags/academic/</guid>
+      <title>Non-Archival</title>
+      <link>https://andipeng.github.io/tags/non-archival/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/tags/non-archival/</guid>
       <description></description>
     </item>
     
