@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;a href=&#34;https://www.cc.gatech.edu/~bdilkina/&#34; target=&#34;_blank&#34; &gt;Bistra Dilkina&lt;/a&gt; | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/a-hrefhttps/www.cc.gatech.edu/~bdilkina/-target_blank-bistra-dilkina/a/</link>
+      <atom:link href="https://andipeng.github.io/authors/a-hrefhttps/www.cc.gatech.edu/~bdilkina/-target_blank-bistra-dilkina/a/index.xml" rel="self" type="application/rss+xml" />
+    <description>&lt;a href=&#34;https://www.cc.gatech.edu/~bdilkina/&#34; target=&#34;_blank&#34; &gt;Bistra Dilkina&lt;/a&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>&lt;a href=&#34;https://www.cc.gatech.edu/~bdilkina/&#34; target=&#34;_blank&#34; &gt;Bistra Dilkina&lt;/a&gt;</title>
+      <link>https://andipeng.github.io/authors/a-hrefhttps/www.cc.gatech.edu/~bdilkina/-target_blank-bistra-dilkina/a/</link>
+    </image>
+    
+    <item>
+      <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
+      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
+      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
