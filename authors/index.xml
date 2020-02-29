@@ -5,12 +5,52 @@
     <link>https://andipeng.github.io/authors/</link>
       <atom:link href="https://andipeng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://andipeng.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>&lt;a href=&#34;http://kiciman.org/&#34; target=&#34;_blank&#34; &gt;Emre Kiciman&lt;/a&gt;</title>
+      <link>https://andipeng.github.io/authors/a-hrefhttp/kiciman.org/-target_blank-emre-kiciman/a/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/a-hrefhttp/kiciman.org/-target_blank-emre-kiciman/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;a href=&#34;https://besmiranushi.com/&#34; target=&#34;_blank&#34; &gt;Besmira Nushi&lt;/a&gt;</title>
+      <link>https://andipeng.github.io/authors/a-hrefhttps/besmiranushi.com/-target_blank-besmira-nushi/a/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/a-hrefhttps/besmiranushi.com/-target_blank-besmira-nushi/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;a href=&#34;https://www.ecekamar.com/&#34; target=&#34;_blank&#34; &gt;Ece Kamar&lt;/a&gt;</title>
+      <link>https://andipeng.github.io/authors/a-hrefhttps/www.ecekamar.com/-target_blank-ece-kamar/a/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/a-hrefhttps/www.ecekamar.com/-target_blank-ece-kamar/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;a href=&#34;https://www.microsoft.com/en-us/research/people/kori/&#34; target=&#34;_blank&#34; &gt;Kori Inkpen&lt;/a&gt;</title>
+      <link>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/kori/-target_blank-kori-inkpen/a/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/kori/-target_blank-kori-inkpen/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;span style=&#34;color:white&#34;&gt;Andi Peng&lt;/span&gt;</title>
+      <link>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&lt;a href=&#34;http://utminers.utep.edu/amortizcepeda/Bio.html&#34; target=&#34;_blank&#34; &gt;Anthony Ortiz&lt;/a&gt;</title>
@@ -61,14 +101,6 @@
     </item>
     
     <item>
-      <title>&lt;span style=&#34;color:white&#34;&gt;Andi Peng&lt;/span&gt;</title>
-      <link>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blake Elias</title>
       <link>https://andipeng.github.io/authors/blake-elias/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
@@ -81,38 +113,6 @@
       <link>https://andipeng.github.io/authors/kolya-malkin/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/authors/kolya-malkin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;a href=&#34;http://kiciman.org/&#34; target=&#34;_blank&#34; &gt;Emre Kiciman&lt;/a&gt;</title>
-      <link>https://andipeng.github.io/authors/a-hrefhttp/kiciman.org/-target_blank-emre-kiciman/a/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/authors/a-hrefhttp/kiciman.org/-target_blank-emre-kiciman/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;a href=&#34;https://besmiranushi.com/&#34; target=&#34;_blank&#34; &gt;Besmira Nushi&lt;/a&gt;</title>
-      <link>https://andipeng.github.io/authors/a-hrefhttps/besmiranushi.com/-target_blank-besmira-nushi/a/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/authors/a-hrefhttps/besmiranushi.com/-target_blank-besmira-nushi/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;a href=&#34;https://www.ecekamar.com/&#34; target=&#34;_blank&#34; &gt;Ece Kamar&lt;/a&gt;</title>
-      <link>https://andipeng.github.io/authors/a-hrefhttps/www.ecekamar.com/-target_blank-ece-kamar/a/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/authors/a-hrefhttps/www.ecekamar.com/-target_blank-ece-kamar/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;a href=&#34;https://www.microsoft.com/en-us/research/people/kori/&#34; target=&#34;_blank&#34; &gt;Kori Inkpen&lt;/a&gt;</title>
-      <link>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/kori/-target_blank-kori-inkpen/a/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/kori/-target_blank-kori-inkpen/a/</guid>
       <description></description>
     </item>
     

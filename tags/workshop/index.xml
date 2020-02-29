@@ -5,12 +5,20 @@
     <link>https://andipeng.github.io/tags/workshop/</link>
       <atom:link href="https://andipeng.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Workshop</title>
       <link>https://andipeng.github.io/tags/workshop/</link>
     </image>
+    
+    <item>
+      <title>On the Nature of Bias Percolation: Assessing Multiaxial Collaboration in Human-AI Systems</title>
+      <link>https://andipeng.github.io/publication/on-the-nature-of-bias-percolation-assessing-multiaxial-collaboration-in-human-ai-systems-workshop/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/on-the-nature-of-bias-percolation-assessing-multiaxial-collaboration-in-human-ai-systems-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
