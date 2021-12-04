@@ -5,36 +5,12 @@
     <link>https://andipeng.github.io/tags/</link>
       <atom:link href="https://andipeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://andipeng.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Workshop</title>
-      <link>https://andipeng.github.io/tags/workshop/</link>
-      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/tags/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>https://andipeng.github.io/tags/conference/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-Archival</title>
-      <link>https://andipeng.github.io/tags/non-archival/</link>
-      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/tags/non-archival/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

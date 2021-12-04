@@ -5,12 +5,20 @@
     <link>https://andipeng.github.io/publication/</link>
       <atom:link href="https://andipeng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://andipeng.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Investigations of Performance and Bias in Human-AI Teamwork in Hiring</title>
+      <link>https://andipeng.github.io/publication/investigations-of-bias-and-performance-in-human-ai-teamwork-hiring/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/investigations-of-bias-and-performance-in-human-ai-teamwork-hiring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Nature of Bias Percolation: Assessing Multiaxial Collaboration in Human-AI Systems</title>
