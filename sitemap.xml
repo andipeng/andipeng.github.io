@@ -2,55 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andipeng.github.io/publication_types/1/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <loc>https://andipeng.github.io/publication_types/2/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication_types/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication/2022-iclrworkshop-mlevaluation/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/tags/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/tags/workshop/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication_types/1/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/tags/journal/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication/2022-nature-climate/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/tags/conference/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/investigations-of-bias-and-performance-in-human-ai-teamwork-hiring/</loc>
+    <loc>https://andipeng.github.io/publication/2022-aaai-hiring/</loc>
     <lastmod>2022-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication_types/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/publication/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/tags/</loc>
-    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/publication_types/2/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/publication/on-the-nature-of-bias-percolation-assessing-multiaxial-collaboration-in-human-ai-systems-workshop/</loc>
-    <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/tags/workshop/</loc>
+    <loc>https://andipeng.github.io/publication/2020-chiworkshop-bias/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping/</loc>
+    <loc>https://andipeng.github.io/publication/2020-aaai-landcover/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/kolya-malkin/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/the-perils-of-objectivity-towards-a-normative-framework-for-fair-judicial-decision-making/</loc>
+    <loc>https://andipeng.github.io/publication/2020-aies-criminal/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/blake-elias/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</loc>
+    <loc>https://andipeng.github.io/publication/2020-iclrworkshop-landcover/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</loc>
+    <loc>https://andipeng.github.io/publication/2019-hcomp-hiring/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/post/partnership-on-ai-risk-assessment-report/</loc>
@@ -65,7 +74,7 @@
     <loc>https://andipeng.github.io/publication_types/8/</loc>
     <lastmod>2018-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/an-integrated-machine-learning-approach-to-studying-terrorism/</loc>
+    <loc>https://andipeng.github.io/publication/2018-yale-thesis/</loc>
     <lastmod>2018-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/tags/non-archival/</loc>
@@ -89,7 +98,7 @@
     <loc>https://andipeng.github.io/authors/colin-summers/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/conceptual-feasibility-study-of-the-hyperloop-for-next-generation-transport/</loc>
+    <loc>https://andipeng.github.io/publication/2017-scitech-hyperloop/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/gazi-sakib/</loc>
@@ -122,7 +131,7 @@
     <loc>https://andipeng.github.io/authors/christine-houle/</loc>
     <lastmod>2016-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/boko-haram-nigeria-governance-usip/</loc>
+    <loc>https://andipeng.github.io/publication/2017-jackson-capstone/</loc>
     <lastmod>2016-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/joe-english/</loc>
@@ -153,11 +162,31 @@
   </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttp/utminers.utep.edu/amortizcepeda/bio.html-anthony-ortiz/a/</loc>
   </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttp/www.jfrankle.com/jonathan-frankle/a/</loc>
+  </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/besmiranushi.com/-besmira-nushi/a/</loc>
   </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/calebrob.com/-caleb-robinson/a/</loc>
   </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/ceepr.mit.edu/people/stoll-christian/-christian-stoll/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/cfp.ethz.ch/people/phd-students/lena-klaassen.html-lena-klaassen/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/earth.stanford.edu/people/rob-jackson#gs.w2wkiq-robert-jackson/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/faculty-directory.dartmouth.edu/ross-virginia-ross-virginia/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/fse.fsi.stanford.edu/people/christopher_b_field-christopher-field/a/</loc>
+  </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/jackson.yale.edu/person/casey-king/-william-casey-king/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/jzf2101.github.io/jessica-zosa-forde/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/law.stanford.edu/directory/colleen-honigsberg/-colleen-honigsberg/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/lkyspp.nus.edu.sg/our-people/faculty/benjamin-william-cashore-benjamin-cashore/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/people.miami.edu/profile/kmachrsmas.miami.edu-katharine-mach/a/</loc>
   </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/www.cc.gatech.edu/~bdilkina/-bistra-dilkina/a/</loc>
   </url><url>
@@ -165,13 +194,29 @@
   </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/www.familyequality.org/people/malina-simard-halm/-malina-simard-halm/a/</loc>
   </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.icf.com/company/about/our-people/v/van-pelt-marian-marian-van-pelt/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.laurengifford.net/-lauren-gifford/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.leehiyona.com/-leehi-yona/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.matthewsclimatelab.org/-damon-mathews/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/amyluers/-amy-luers/a/</loc>
+  </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/dan/-dan-morris/a/</loc>
   </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/jojic/-nebojsa-jojic/a/</loc>
   </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/kori/-kori-inkpen/a/</loc>
   </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.microsoft.com/en-us/research/people/lujoppa/-lucas-joppa/a/</loc>
+  </url><url>
     <loc>https://andipeng.github.io/authors/a-hrefhttps/www.sidsuri.com/-siddharth-suri/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/www.wri.org/profile/cynthia-elliott#~textcynthia%20is%20an%20associate%20forto%20effectively%20track%20emissions%20reductions.-cynthia-elliott/a/</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/a-hrefhttps/yonadavshavit.com/yonadav-shavit/a/</loc>
   </url><url>
     <loc>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</loc>
   </url><url>

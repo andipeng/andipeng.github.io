@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/publication_types/2/</link>
       <atom:link href="https://andipeng.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Strengthening Subcommunities: Towards Sustainable Growth in AI Research</title>
+      <link>https://andipeng.github.io/publication/2022-iclrworkshop-mlevaluation/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2022-iclrworkshop-mlevaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Nature of Bias Percolation: Assessing Multiaxial Collaboration in Human-AI Systems</title>
-      <link>https://andipeng.github.io/publication/on-the-nature-of-bias-percolation-assessing-multiaxial-collaboration-in-human-ai-systems-workshop/</link>
+      <link>https://andipeng.github.io/publication/2020-chiworkshop-bias/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/on-the-nature-of-bias-percolation-assessing-multiaxial-collaboration-in-human-ai-systems-workshop/</guid>
+      <guid>https://andipeng.github.io/publication/2020-chiworkshop-bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
-      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</link>
+      <link>https://andipeng.github.io/publication/2020-iclrworkshop-landcover/</link>
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</guid>
+      <guid>https://andipeng.github.io/publication/2020-iclrworkshop-landcover/</guid>
       <description></description>
     </item>
     

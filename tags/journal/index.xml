@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal | Andi Peng</title>
+    <link>https://andipeng.github.io/tags/journal/</link>
+      <atom:link href="https://andipeng.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Journal</title>
+      <link>https://andipeng.github.io/tags/journal/</link>
+    </image>
+    
+    <item>
+      <title>Towards Reliable and Interoperable Greenhouse Gas Accounting</title>
+      <link>https://andipeng.github.io/publication/2022-nature-climate/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2022-nature-climate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
