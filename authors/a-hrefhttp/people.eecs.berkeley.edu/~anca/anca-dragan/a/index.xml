@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;a href=&#34;http://people.eecs.berkeley.edu/~anca/&#34;&gt;Anca Dragan&lt;/a&gt; | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/a-hrefhttp/people.eecs.berkeley.edu/~anca/anca-dragan/a/</link>
+      <atom:link href="https://andipeng.github.io/authors/a-hrefhttp/people.eecs.berkeley.edu/~anca/anca-dragan/a/index.xml" rel="self" type="application/rss+xml" />
+    <description>&lt;a href=&#34;http://people.eecs.berkeley.edu/~anca/&#34;&gt;Anca Dragan&lt;/a&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>&lt;a href=&#34;http://people.eecs.berkeley.edu/~anca/&#34;&gt;Anca Dragan&lt;/a&gt;</title>
+      <link>https://andipeng.github.io/authors/a-hrefhttp/people.eecs.berkeley.edu/~anca/anca-dragan/a/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -14,9 +14,17 @@
     
     <item>
       <title>Aligning Robot Representations with Humans</title>
-      <link>https://andipeng.github.io/publication/2023-icml_aligning/</link>
+      <link>https://andipeng.github.io/publication/2023-icml-aligning/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-icml_aligning/</guid>
+      <guid>https://andipeng.github.io/publication/2023-icml-aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Adaptation via Human Diagnosis of Task Distribution Shift</title>
+      <link>https://andipeng.github.io/publication/2023-icml-diagnosis/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-icml-diagnosis/</guid>
       <description></description>
     </item>
     

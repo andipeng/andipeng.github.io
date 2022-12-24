@@ -5,12 +5,28 @@
     <link>https://andipeng.github.io/publication_types/2/</link>
       <atom:link href="https://andipeng.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://andipeng.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Aligning Robot Representations with Humans</title>
+      <link>https://andipeng.github.io/publication/2023-icml-aligning/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-icml-aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Adaptation via Human Diagnosis of Task Distribution Shift</title>
+      <link>https://andipeng.github.io/publication/2023-icml-diagnosis/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-icml-diagnosis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Strengthening Subcommunities: Towards Sustainable Growth in AI Research</title>
