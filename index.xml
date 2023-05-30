@@ -14,17 +14,9 @@
     
     <item>
       <title>Aligning Robot Representations with Humans</title>
-      <link>https://andipeng.github.io/publication/2023-rss-aligning/</link>
+      <link>https://andipeng.github.io/publication/2023-neurips-aligning/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-rss-aligning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Complexity-Limited Discrete Representations for Rapid Adaptation</title>
-      <link>https://andipeng.github.io/publication/2023-icml-prototypes/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-icml-prototypes/</guid>
+      <guid>https://andipeng.github.io/publication/2023-neurips-aligning/</guid>
       <description></description>
     </item>
     
@@ -33,6 +25,22 @@
       <link>https://andipeng.github.io/publication/2023-icml-counterfactuals/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-icml-counterfactuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Guided Complexity-Controlled Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-neurips-prototypes/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-neurips-prototypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Language-Guided State Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-neurips-lang/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-neurips-lang/</guid>
       <description></description>
     </item>
     
@@ -131,7 +139,7 @@
 
 
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[May 2023]&lt;/span&gt;&lt;/strong&gt; I gave a talk at the Yale for Humanity event on &lt;a href=&#34;https://forhumanity.yale.edu/events/fhi-chicago&#34;&gt;Artificial Intelligence, Ethics, and Society: Utilizing Technology for Good&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Apr 2023]&lt;/span&gt;&lt;/strong&gt; Our paper &lt;em&gt;Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-time Policy Adaptation&lt;/em&gt; was accepted to ICML 2023.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Apr 2023]&lt;/span&gt;&lt;/strong&gt; Our paper &lt;em&gt;Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation&lt;/em&gt; was accepted to ICML 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Apr 2023]&lt;/span&gt;&lt;/strong&gt; I ran the Boston Marathon!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Mar 2023]&lt;/span&gt;&lt;/strong&gt; Co-organizing &lt;a href=&#34;https://interactive-learning-implicit-feedback.github.io/&#34;&gt;Interactive Learning from Implicit Human Feedback&lt;/a&gt; workshop at ICML 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Feb 2023]&lt;/span&gt;&lt;/strong&gt;  Received my M.S. from MIT EECS.&lt;/p&gt;

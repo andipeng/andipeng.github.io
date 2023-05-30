@@ -14,17 +14,9 @@
     
     <item>
       <title>Aligning Robot Representations with Humans</title>
-      <link>https://andipeng.github.io/publication/2023-rss-aligning/</link>
+      <link>https://andipeng.github.io/publication/2023-neurips-aligning/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-rss-aligning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Complexity-Limited Discrete Representations for Rapid Adaptation</title>
-      <link>https://andipeng.github.io/publication/2023-icml-prototypes/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-icml-prototypes/</guid>
+      <guid>https://andipeng.github.io/publication/2023-neurips-aligning/</guid>
       <description></description>
     </item>
     
@@ -33,6 +25,22 @@
       <link>https://andipeng.github.io/publication/2023-icml-counterfactuals/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-icml-counterfactuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Guided Complexity-Controlled Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-neurips-prototypes/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-neurips-prototypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Language-Guided State Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-neurips-lang/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-neurips-lang/</guid>
       <description></description>
     </item>
     
