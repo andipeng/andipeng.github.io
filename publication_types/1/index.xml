@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/publication_types/1/</link>
       <atom:link href="https://andipeng.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>1</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Aligning Robot Representations with Humans</title>
       <link>https://andipeng.github.io/publication/2023-neurips-aligning/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-neurips-aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Guided Complexity-Controlled Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-neurips-prototypes/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-neurips-prototypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Language-Guided State Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-neurips-lang/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-neurips-lang/</guid>
       <description></description>
     </item>
     
@@ -25,22 +41,6 @@
       <link>https://andipeng.github.io/publication/2023-icml-counterfactuals/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-icml-counterfactuals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-Guided Complexity-Controlled Abstractions</title>
-      <link>https://andipeng.github.io/publication/2023-neurips-prototypes/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-neurips-prototypes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning with Language-Guided State Abstractions</title>
-      <link>https://andipeng.github.io/publication/2023-neurips-lang/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-neurips-lang/</guid>
       <description></description>
     </item>
     
