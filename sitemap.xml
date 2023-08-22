@@ -32,7 +32,7 @@
     <loc>https://andipeng.github.io/authors/more-authors/</loc>
     <lastmod>2023-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/publication/2023-preprint-rlhf-copy/</loc>
+    <loc>https://andipeng.github.io/publication/2023-preprint-rlhf/</loc>
     <lastmod>2023-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/publication_types/</loc>
@@ -277,5 +277,7 @@
     <loc>https://andipeng.github.io/categories/</loc>
   </url><url>
     <loc>https://andipeng.github.io/authors/many-authors.../</loc>
+  </url><url>
+    <loc>https://andipeng.github.io/tags/preprint-/-working-paper/</loc>
   </url>
 </urlset>

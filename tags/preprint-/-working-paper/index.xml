@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 | Andi Peng</title>
-    <link>https://andipeng.github.io/publication_types/4/</link>
-      <atom:link href="https://andipeng.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
-    <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <title>Preprint / Working Paper | Andi Peng</title>
+    <link>https://andipeng.github.io/tags/preprint-/-working-paper/</link>
+      <atom:link href="https://andipeng.github.io/tags/preprint-/-working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preprint / Working Paper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
-      <title>4</title>
-      <link>https://andipeng.github.io/publication_types/4/</link>
+      <title>Preprint / Working Paper</title>
+      <link>https://andipeng.github.io/tags/preprint-/-working-paper/</link>
     </image>
     
     <item>
