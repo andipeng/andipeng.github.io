@@ -14,9 +14,9 @@
     
     <item>
       <title>Aligning Robot Representations with Humans</title>
-      <link>https://andipeng.github.io/publication/2023-neurips-aligning/</link>
+      <link>https://andipeng.github.io/publication/2024-hri-aligning/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-neurips-aligning/</guid>
+      <guid>https://andipeng.github.io/publication/2024-hri-aligning/</guid>
       <description></description>
     </item>
     
@@ -30,9 +30,9 @@
     
     <item>
       <title>Learning with Language-Guided State Abstractions</title>
-      <link>https://andipeng.github.io/publication/2023-neurips-lang/</link>
+      <link>https://andipeng.github.io/publication/2024-iclr-lang/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-neurips-lang/</guid>
+      <guid>https://andipeng.github.io/publication/2024-iclr-lang/</guid>
       <description></description>
     </item>
     
@@ -146,6 +146,8 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Sep 2023]&lt;/span&gt;&lt;/strong&gt; Our paper [Human-Guided Complexity-Controlled Abstractions] was accepted to NeurIPS 2023.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Sep 2023]&lt;/span&gt;&lt;/strong&gt; Started my internship at the Boston Dynamics AI Institute!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Jul 2023]&lt;/span&gt;&lt;/strong&gt; Gave an interview for &lt;a href=&#34;https://twitter.com/MichaelTrazzi/status/1688935598370021377&#34;&gt;The Inside View&lt;/a&gt; at ICML!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Jul 2023]&lt;/span&gt;&lt;/strong&gt; Our new preprint &lt;a href=&#34;https://arxiv.org/abs/2307.15217&#34;&gt;Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback&lt;/a&gt; is out!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Jul 2023]&lt;/span&gt;&lt;/strong&gt; Co-organized the &lt;a href=&#34;https://interactive-learning-implicit-feedback.github.io/&#34;&gt;Interactive Learning from Implicit Human Feedback&lt;/a&gt; workshop at ICML 2023.&lt;/p&gt;
