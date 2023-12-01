@@ -15,31 +15,39 @@
     <item>
       <title>Aligning Robot Representations with Humans</title>
       <link>https://andipeng.github.io/publication/2024-hri-aligning/</link>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2024-hri-aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preference-Conditioned Language-Guided Abstractions</title>
+      <link>https://andipeng.github.io/publication/2024-hri-plga/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-hri-plga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Aligned on Representational Alignment</title>
+      <link>https://andipeng.github.io/publication/2023-preprint-repalign/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-preprint-repalign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human-Guided Complexity-Controlled Abstractions</title>
       <link>https://andipeng.github.io/publication/2023-neurips-complexity/</link>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-neurips-complexity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning with Language-Guided State Abstractions</title>
-      <link>https://andipeng.github.io/publication/2024-iclr-lang/</link>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2024-iclr-lang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback</title>
       <link>https://andipeng.github.io/publication/2023-preprint-rlhf/</link>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-preprint-rlhf/</guid>
       <description></description>
     </item>
@@ -47,7 +55,7 @@
     <item>
       <title>Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation</title>
       <link>https://andipeng.github.io/publication/2023-icml-counterfactuals/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-icml-counterfactuals/</guid>
       <description></description>
     </item>
@@ -121,6 +129,14 @@
       <link>https://andipeng.github.io/publication/2017-scitech-hyperloop/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2017-scitech-hyperloop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Language-Guided State Abstractions</title>
+      <link>https://andipeng.github.io/publication/2023-rss-lang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-rss-lang/</guid>
       <description></description>
     </item>
     

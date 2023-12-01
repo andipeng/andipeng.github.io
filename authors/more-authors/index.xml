@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/authors/more-authors/</link>
       <atom:link href="https://andipeng.github.io/authors/more-authors/index.xml" rel="self" type="application/rss+xml" />
     <description>more authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>more authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Getting Aligned on Representational Alignment</title>
+      <link>https://andipeng.github.io/publication/2023-preprint-repalign/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-preprint-repalign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback</title>
       <link>https://andipeng.github.io/publication/2023-preprint-rlhf/</link>
-      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-preprint-rlhf/</guid>
       <description></description>
     </item>
