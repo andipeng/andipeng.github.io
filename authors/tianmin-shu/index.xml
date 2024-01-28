@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianmin Shu | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/tianmin-shu/</link>
+      <atom:link href="https://andipeng.github.io/authors/tianmin-shu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianmin Shu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Tianmin Shu</title>
+      <link>https://andipeng.github.io/authors/tianmin-shu/</link>
+    </image>
+    
+    <item>
+      <title>Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Feedback</title>
+      <link>https://andipeng.github.io/publication/2024-icml-featprefs/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-icml-featprefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation</title>
+      <link>https://andipeng.github.io/publication/2023-icml-counterfactuals/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-icml-counterfactuals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

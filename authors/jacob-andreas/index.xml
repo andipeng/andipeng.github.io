@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Andreas | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/jacob-andreas/</link>
+      <atom:link href="https://andipeng.github.io/authors/jacob-andreas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Andreas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Jacob Andreas</title>
+      <link>https://andipeng.github.io/authors/jacob-andreas/</link>
+    </image>
+    
+    <item>
+      <title>Learning with Language-Guided State Abstractions</title>
+      <link>https://andipeng.github.io/publication/2024-iclr-lga/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-iclr-lga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

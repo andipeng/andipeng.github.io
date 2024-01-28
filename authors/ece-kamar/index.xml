@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/authors/ece-kamar/</link>
       <atom:link href="https://andipeng.github.io/authors/ece-kamar/index.xml" rel="self" type="application/rss+xml" />
     <description>Ece Kamar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Ece Kamar</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Investigations of Performance and Bias in Human-AI Teamwork in Hiring</title>
+      <link>https://andipeng.github.io/publication/2022-aaai-hiring/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2022-aaai-hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Nature of Bias Percolation: Assessing Multiaxial Collaboration in Human-AI Systems</title>
+      <link>https://andipeng.github.io/publication/2020-chiworkshop-bias/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2020-chiworkshop-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What You See Is What You Get? The Impact of Representation Criteria on Human Bias in Hiring</title>
-      <link>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</link>
+      <link>https://andipeng.github.io/publication/2019-hcomp-hiring/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/what-you-see-is-what-you-get-the-impact-of-representation-criteria-on-human-bias-in-hiring/</guid>
+      <guid>https://andipeng.github.io/publication/2019-hcomp-hiring/</guid>
       <description></description>
     </item>
     

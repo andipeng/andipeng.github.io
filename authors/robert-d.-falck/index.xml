@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert D. Falck | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/robert-d.-falck/</link>
+      <atom:link href="https://andipeng.github.io/authors/robert-d.-falck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert D. Falck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Robert D. Falck</title>
+      <link>https://andipeng.github.io/authors/robert-d.-falck/</link>
+    </image>
+    
+    <item>
+      <title>Conceptual Feasibility Study of the Hyperloop Vehicle for Next-Generation Transport</title>
+      <link>https://andipeng.github.io/publication/2017-scitech-hyperloop/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2017-scitech-hyperloop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

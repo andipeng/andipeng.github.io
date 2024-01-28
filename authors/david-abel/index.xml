@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Abel | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/david-abel/</link>
+      <atom:link href="https://andipeng.github.io/authors/david-abel/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Abel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>David Abel</title>
+      <link>https://andipeng.github.io/authors/david-abel/</link>
+    </image>
+    
+    <item>
+      <title>Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Feedback</title>
+      <link>https://andipeng.github.io/publication/2024-icml-featprefs/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-icml-featprefs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

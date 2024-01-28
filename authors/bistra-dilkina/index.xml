@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/authors/bistra-dilkina/</link>
       <atom:link href="https://andipeng.github.io/authors/bistra-dilkina/index.xml" rel="self" type="application/rss+xml" />
     <description>Bistra Dilkina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Bistra Dilkina</title>
@@ -14,17 +14,9 @@
     
     <item>
       <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
-      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping/</link>
+      <link>https://andipeng.github.io/publication/2020-aaai-landcover/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-Machine Collaboration for Fast Land Cover Mapping</title>
-      <link>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</link>
-      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</guid>
+      <guid>https://andipeng.github.io/publication/2020-aaai-landcover/</guid>
       <description></description>
     </item>
     

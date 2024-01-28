@@ -5,12 +5,20 @@
     <link>https://andipeng.github.io/publication/</link>
       <atom:link href="https://andipeng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://andipeng.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Feedback</title>
+      <link>https://andipeng.github.io/publication/2024-icml-featprefs/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-icml-featprefs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning with Language-Guided State Abstractions</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Frankle | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/jonathan-frankle/</link>
+      <atom:link href="https://andipeng.github.io/authors/jonathan-frankle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Frankle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>Jonathan Frankle</title>
+      <link>https://andipeng.github.io/authors/jonathan-frankle/</link>
+    </image>
+    
+    <item>
+      <title>Strengthening Subcommunities: Towards Sustainable Growth in AI Research</title>
+      <link>https://andipeng.github.io/publication/2022-iclrworkshop-mlevaluation/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2022-iclrworkshop-mlevaluation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
