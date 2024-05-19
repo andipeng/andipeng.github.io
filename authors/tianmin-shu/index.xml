@@ -5,7 +5,7 @@
     <link>https://andipeng.github.io/authors/tianmin-shu/</link>
       <atom:link href="https://andipeng.github.io/authors/tianmin-shu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianmin Shu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Tianmin Shu</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Constrained Human-AI: An Inclusive Embodied AI Assistance Challenge</title>
+      <link>https://andipeng.github.io/publication/2024-neurips-constrained/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-neurips-constrained/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Feedback</title>
       <link>https://andipeng.github.io/publication/2024-icml-featprefs/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2024-icml-featprefs/</guid>
       <description></description>
     </item>
