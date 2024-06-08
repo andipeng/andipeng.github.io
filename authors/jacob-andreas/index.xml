@@ -5,12 +5,20 @@
     <link>https://andipeng.github.io/authors/jacob-andreas/</link>
       <atom:link href="https://andipeng.github.io/authors/jacob-andreas/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Andreas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Jacob Andreas</title>
       <link>https://andipeng.github.io/authors/jacob-andreas/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Language-Guided Abstraction from Contrastive Explanations</title>
+      <link>https://andipeng.github.io/publication/2024-corl-algae/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-corl-algae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning with Language-Guided State Abstractions</title>
