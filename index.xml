@@ -5,12 +5,20 @@
     <link>https://andipeng.github.io/</link>
       <atom:link href="https://andipeng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andi Peng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
       <title>Andi Peng</title>
       <link>https://andipeng.github.io/</link>
     </image>
+    
+    <item>
+      <title>Learning How Hard to Think: Input-Adaptive Allocation of LM Computation</title>
+      <link>https://andipeng.github.io/publication/2025-iclr-adaptivecompute/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2025-iclr-adaptivecompute/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Language-Guided Abstraction from Contrastive Explanations</title>
@@ -186,7 +194,7 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Sep 2024]&lt;/span&gt;&lt;/strong&gt; Our paper &lt;a href=&#34;https://arxiv.org/pdf/2409.08212&#34;&gt;Adaptive Language-Guided Abstraction from Contrastive Explanations&lt;/a&gt; was accepted to CoRL 2024.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Nov 2024]&lt;/span&gt;&lt;/strong&gt; Attending CoRL! I&amp;rsquo;ll be presenting &lt;a href=&#34;https://arxiv.org/pdf/2409.08212&#34;&gt;Adaptive Language-Guided Abstraction from Contrastive Explanations&lt;/a&gt; in the main conference.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Aug 2024]&lt;/span&gt;&lt;/strong&gt; I am taking leave from MIT to lead national security evaluations on the Frontier Red Team at Anthropic.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Aug 2024]&lt;/span&gt;&lt;/strong&gt; Attending RLC! I&amp;rsquo;ll be presenting Pragmatic Feature Preferences in the &lt;a href=&#34;https://rlbrew-workshop.github.io/&#34;&gt;RL Beyond Rewards Workshop&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:orange&#34;&gt;[Jul 2024]&lt;/span&gt;&lt;/strong&gt; Attending ICML! I&amp;rsquo;ll be presenting Pragmatic Feature Preferences in the main conference. I&amp;rsquo;ll also be attending the &lt;a href=&#34;https://www.alignment-workshop.com/&#34;&gt;Alignment Workshop&lt;/a&gt; beforehand.&lt;/p&gt;

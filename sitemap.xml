@@ -2,46 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://andipeng.github.io/publication_types/1/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/andreea-bobu/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/tags/conference/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/idan-shenfeld/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/jacob-andreas/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication/2025-iclr-adaptivecompute/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/authors/mehul-damani/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication_types/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/publication/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andipeng.github.io/tags/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andipeng.github.io/publication_types/4/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/publication/2024-corl-algae/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/authors/andreea-bobu/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/authors/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://andipeng.github.io/authors/belinda-z.-li/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andipeng.github.io/tags/conference/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://andipeng.github.io/authors/ilia-sucholutsky/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/authors/jacob-andreas/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/julie-a.-shah/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/nishanth-kumar/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/publication_types/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/publication/</loc>
-    <lastmod>2024-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/tags/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/authors/behzad-dariush/</loc>
@@ -76,9 +88,6 @@
   </url><url>
     <loc>https://andipeng.github.io/authors/zhenting-qi/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andipeng.github.io/publication_types/1/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andipeng.github.io/publication_types/2/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
