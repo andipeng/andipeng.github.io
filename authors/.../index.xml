@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>... | Andi Peng</title>
+    <link>https://andipeng.github.io/authors/.../</link>
+      <atom:link href="https://andipeng.github.io/authors/.../index.xml" rel="self" type="application/rss+xml" />
+    <description>...</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2026</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.github.io/img/icon-192.png</url>
+      <title>...</title>
+      <link>https://andipeng.github.io/authors/.../</link>
+    </image>
+    
+    <item>
+      <title>Getting Aligned on Representational Alignment</title>
+      <link>https://andipeng.github.io/publication/2023-preprint-repalign/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-preprint-repalign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback</title>
+      <link>https://andipeng.github.io/publication/2023-tmlr-rlhf/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-tmlr-rlhf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make Greenhouse-Gas Accounting Reliable — Build Interoperable Systems</title>
+      <link>https://andipeng.github.io/publication/2022-nature-climate/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2022-nature-climate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

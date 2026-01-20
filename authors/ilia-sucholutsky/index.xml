@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ilia Sucholutsky* | Andi Peng</title>
+    <title>Ilia Sucholutsky | Andi Peng</title>
     <link>https://andipeng.github.io/authors/ilia-sucholutsky/</link>
       <atom:link href="https://andipeng.github.io/authors/ilia-sucholutsky/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ilia Sucholutsky*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2025</copyright><lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <description>Ilia Sucholutsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2026</copyright><lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
-      <title>Ilia Sucholutsky*</title>
+      <title>Ilia Sucholutsky</title>
       <link>https://andipeng.github.io/authors/ilia-sucholutsky/</link>
     </image>
     
@@ -33,14 +33,6 @@
       <link>https://andipeng.github.io/publication/2024-hri-plga/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2024-hri-plga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Aligned on Representational Alignment</title>
-      <link>https://andipeng.github.io/publication/2023-preprint-repalign/</link>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-preprint-repalign/</guid>
       <description></description>
     </item>
     

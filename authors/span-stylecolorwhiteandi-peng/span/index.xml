@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;span style=&#34;color:white&#34;&gt;Andi Peng&lt;/span&gt; | Andi Peng</title>
+    <title>&lt;Span Style=&#34;color:white&#34;&gt;Andi Peng&lt;/Span&gt; | Andi Peng</title>
     <link>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</link>
       <atom:link href="https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/index.xml" rel="self" type="application/rss+xml" />
-    <description>&lt;span style=&#34;color:white&#34;&gt;Andi Peng&lt;/span&gt;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2025</copyright>
+    <description>&lt;Span Style=&#34;color:white&#34;&gt;Andi Peng&lt;/Span&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2026</copyright><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.github.io/img/icon-192.png</url>
-      <title>&lt;span style=&#34;color:white&#34;&gt;Andi Peng&lt;/span&gt;</title>
+      <title>&lt;Span Style=&#34;color:white&#34;&gt;Andi Peng&lt;/Span&gt;</title>
       <link>https://andipeng.github.io/authors/span-stylecolorwhiteandi-peng/span/</link>
     </image>
     
@@ -53,14 +53,6 @@
     </item>
     
     <item>
-      <title>Aligning Robot Representations with Humans</title>
-      <link>https://andipeng.github.io/publication/2024-hri-aligning/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2024-hri-aligning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Preference-Conditioned Language-Guided Abstractions</title>
       <link>https://andipeng.github.io/publication/2024-hri-plga/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
@@ -73,14 +65,6 @@
       <link>https://andipeng.github.io/publication/2023-preprint-repalign/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://andipeng.github.io/publication/2023-preprint-repalign/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-Guided Complexity-Controlled Abstractions</title>
-      <link>https://andipeng.github.io/publication/2023-neurips-complexity/</link>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://andipeng.github.io/publication/2023-neurips-complexity/</guid>
       <description></description>
     </item>
     
