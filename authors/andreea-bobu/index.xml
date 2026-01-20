@@ -22,3 +22,32 @@
     
   </channel>
 </rss>
+ion>
+    </item>
+    
+    <item>
+      <title>Adaptive Language-Guided Abstraction from Contrastive Explanations</title>
+      <link>https://andipeng.github.io/publication/2024-corl-algae/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-corl-algae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preference-Conditioned Language-Guided Abstractions</title>
+      <link>https://andipeng.github.io/publication/2024-hri-plga/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2024-hri-plga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation</title>
+      <link>https://andipeng.github.io/publication/2023-icml-counterfactuals/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.github.io/publication/2023-icml-counterfactuals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
